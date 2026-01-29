@@ -1,4 +1,9 @@
-## Hi there 👋
+## hun2hun2
+
+# Who am I?
+
+I am a college graduate and currently preparing to get a job at a game company.\
+The filed I'm currently preparing for is game/client programmers.
 
 <!--
 **hun2hun2/hun2hun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
